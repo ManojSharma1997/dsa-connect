@@ -1,6 +1,13 @@
  
+{
+  "name": "predator_97_printer",
+  "version": "1.0.0",
+  "description": "A simple Node.js project that prints Predator_97",
+  "main": "index.js",
   "scripts": {
-
-"create-docs": "echo 'Predator_97x'"
- }
+    "start": "node index.js"
+  },
+  "author": "Predator_97",
+  "license": "ISC"
+}
 
